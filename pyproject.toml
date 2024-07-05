@@ -24,7 +24,7 @@ classifiers = [
 [tool.poetry.dependencies]
 python = "^3.10"
 aiohttp = "^3.6"
-httpstan = "^4.13"
+httpstan = ">=4.13"
 pysimdjson = ">=5.0.2,<7"
 numpy = ">=1.19"
 clikit = "^0.6"
